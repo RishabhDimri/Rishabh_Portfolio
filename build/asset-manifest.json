@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2629c8c6.css",
+    "main.js": "/static/js/main.e2c95993.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.png": "/static/media/logo.c4d5d049c890b1775f32.png",
+    "static/media/Rishabh_Dimri_Resume .pdf": "/static/media/Rishabh_Dimri_Resume .8dc7ed7c69aa664c48b1.pdf",
+    "static/media/emocarehub.png": "/static/media/emocarehub.488942a78d8e49062baa.png",
+    "static/media/sanchari.png": "/static/media/sanchari.c7633a0ca0d464c73fcc.png",
+    "static/media/roleguard.png": "/static/media/roleguard.50e187c2d45d515ac59a.png",
+    "static/media/prakriti.png": "/static/media/prakriti.9601cd3c9d29aa67f52a.png",
+    "static/media/mye.jpg": "/static/media/mye.1d6772a38c3bbf22ed49.jpg",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/dapp.png": "/static/media/dapp.4331bd3e69c20d64f1ff.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.2629c8c6.css.map": "/static/css/main.2629c8c6.css.map",
+    "main.e2c95993.js.map": "/static/js/main.e2c95993.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2629c8c6.css",
+    "static/js/main.e2c95993.js"
+  ]
+}
